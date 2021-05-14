@@ -1,0 +1,1 @@
+{"name":"theme-aritim-light","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"sss","license":"MIT","engines":{"vscode":"*"},"contributes":{"themes":[{"id":"aritim Light","label":"%themeLabel%","uiTheme":"vs","path":"./themes/aritim-light-color-theme.json"}]},"repository":{"type":"git","url":""}}
